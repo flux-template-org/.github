@@ -1,16 +1,17 @@
+
 <div align="center">
 
 
  
 <div align="column">
- <img width="70" height="70" alt="logo" src="https://github.com/user-attachments/assets/c5742cb2-990b-4595-8bf0-d1ae99023418" />
+<img width="150" height="150" alt="me" src="https://github.com/user-attachments/assets/5c2ecf0d-f771-4e7a-8b2b-b0e9b2877380" />
 </div>
 
  ### Premium Multipage — Flux | Themes
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Astro-5.0-FF5D01?logo=astro&logoColor=white" alt="Astro">
+  <img src="https://img.shields.io/badge/Astro-6.0-FF5D01?logo=astro&logoColor=white" alt="Astro">
   <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Tailwind_CSS-4.0-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Framer_Motion-12-0055FF?logo=framer&logoColor=white" alt="Framer Motion">
