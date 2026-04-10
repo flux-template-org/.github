@@ -1,7 +1,13 @@
 <div align="center">
+
+
+ 
 <div align="column">
- <img width="50" height="50" alt="logo" src="https://github.com/user-attachments/assets/c5742cb2-990b-4595-8bf0-d1ae99023418" />
+ <img width="70" height="70" alt="logo" src="https://github.com/user-attachments/assets/c5742cb2-990b-4595-8bf0-d1ae99023418" />
 </div>
+
+ ### Premium Multipage — Flux | Themes
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Astro-5.0-FF5D01?logo=astro&logoColor=white" alt="Astro">
