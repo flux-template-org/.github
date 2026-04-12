@@ -15,10 +15,9 @@
   <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Tailwind_CSS-4.0-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Framer_Motion-12-0055FF?logo=framer&logoColor=white" alt="Framer Motion">
-  <img src="https://img.shields.io/badge/Stripe-latest-635BFF?logo=stripe&logoColor=white" alt="Stripe">
-  <img src="https://img.shields.io/badge/Supabase-latest-3ECF8E?logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/Sanity_CMS-latest-F03E2F?logo=sanity&logoColor=white" alt="Sanity CMS">
-  <img src="https://img.shields.io/badge/Vercel-latest-000000?logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Nanostores-latest-000000?logo=npm&logoColor=white" alt="Nanostores">
+  <img src="https://img.shields.io/badge/HLS.js-latest-A020F0?logo=javascript&logoColor=white" alt="HLS.js">
+  <img src="https://img.shields.io/badge/shadcn%2Fui-latest-000000?logo=shadcnui&logoColor=white" alt="shadcn/ui">
 </p>
 
 
