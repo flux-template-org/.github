@@ -31,7 +31,7 @@
 
 ### What is Flux Theme?
 
-Flux Theme is a collection of production-ready, multi-page Astro templates built with React and Tailwind CSS. Every template ships with real integrations, responsive layouts, and performance scores above 90+.
+Flux Theme is a starting architecture, not just a template. Clean folder structure, real integrations pre-configured, and a consistent pattern across every project — so you always know where everything is and how it all connects.
 
 
 ### Templates
