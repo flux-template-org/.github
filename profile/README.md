@@ -4,7 +4,8 @@
 
  
 <div align="column">
-<img width="150" height="150" alt="me" src="https://github.com/user-attachments/assets/5c2ecf0d-f771-4e7a-8b2b-b0e9b2877380" />
+<img width="250" height="250" alt="ne" src="https://github.com/user-attachments/assets/357d538a-2c6d-4969-89bb-c775590469e0" />
+
 </div>
 
  ### Premium Multipage — Flux | Themes
