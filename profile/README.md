@@ -1,6 +1,7 @@
 <div align="center">
 <div align="column">
-<img width="424" height="286" alt="icon1" src="https://github.com/user-attachments/assets/b4f0f2ef-1d2f-4429-abf2-f6a45598eac9" />
+<img width="424" height="286" alt="icon" src="https://github.com/user-attachments/assets/5b147abd-4d5a-4b84-83b9-803a281b1e24" />
+
 </div>
 
  ### Premium Multipage — Flux | Themes
